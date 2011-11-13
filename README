@@ -1,0 +1,3 @@
+This PHP Class will scrape all images from a given (sub)Reddit and save the files in a folder . It will check for duplicate images (same filename).
+
+Please view 'example.php' for usage details. 
